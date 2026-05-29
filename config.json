@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configstringify",
+        "uuid": 2027740,
+        "checksum": "2l71me"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
